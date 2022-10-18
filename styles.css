@@ -1,0 +1,14 @@
+.item{
+    list list-style: none;
+    border:1px solid blue;
+    padding:5%;
+    margin:4%;
+    border-radius:5%;
+}
+.item a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.item:hover{
+    background-color: aquamarine;
+}
